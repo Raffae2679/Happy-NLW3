@@ -47,6 +47,10 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+## 🔗 Site
+
+Clicando [aqui](https://raffae2679.github.io/happy-nlw3/) você consegue acessar o site que está sendo desenvolvido (Apenas a parte frontend)
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="img-readme/logo.svg" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/happy.png" width="100%">
+  <img alt="Proffy" src="img-readme/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

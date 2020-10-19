@@ -25,10 +25,10 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
+- Html
+- Css
 - [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [Node.js](https://nodejs.org/en/)
 
 ## 💻 Projeto
 
@@ -49,7 +49,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 🔗 Site
 
-Clicando [aqui](https://raffae2679.github.io/happy-nlw3/) você consegue acessar o site que está sendo desenvolvido (Apenas a parte frontend)
+Clicando [aqui](https://raffae2679.github.io/happy-nlw3/) você consegue acessar o site que foi desenvolvido (frontend)
 
 ## 📝 Licença
 
@@ -57,4 +57,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Sendo desenvolvido com 💜 por Raffael Morais</p>
+<p align="center">Desenvolvido com 💜 por Raffael Morais</p>
